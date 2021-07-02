@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>jordan black &#8211; Khang&#039;s WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/jordan-black/feed/" rel="self" type="application/rss+xml" />
+	<link>https://galaway.github.io/mywordpress</link>
+	<description>Chúc bạn một ngày tốt lành</description>
+	<lastBuildDate>Sat, 19 Jun 2021 03:25:33 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>jordan black</title>
+		<link></link>
+		
+		<dc:creator><![CDATA[phamkhang]]></dc:creator>
+		<pubDate>Sat, 19 Jun 2021 03:25:33 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Hiển thị kết quả duy nhất Thứ tự mặc định Thứ tự theo mức độ phổ biến Thứ tự theo điểm đánh giá Mới nhất Thứ tự theo giá: thấp đến cao Thứ tự theo giá: cao xuống thấp Giày Nike Air Jordan 3 &#8216;Black History Month&#8217; 455657-001Được xếp hạng 5.00 5 sao 13,000,000&#160;&#8363; Thêm [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce columns-3 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
+	Hiển thị kết quả duy nhất</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
+					<option value="menu_order"  selected='selected'>Thứ tự mặc định</option>
+					<option value="popularity" >Thứ tự theo mức độ phổ biến</option>
+					<option value="rating" >Thứ tự theo điểm đánh giá</option>
+					<option value="date" >Mới nhất</option>
+					<option value="price" >Thứ tự theo giá: thấp đến cao</option>
+					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	</form>
+<ul class="products columns-3">
+<li class="product type-product post-205 status-publish first onbackorder product_cat-air-jordan-3 product_tag-jordan-3 product_tag-jordan-black has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://galaway.github.io/mywordpress/sanpham/giay-nike-air-jordan-3-black-history-month-455657-001/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="182" src="https://galaway.github.io/mywordpress/wp-content/uploads/2021/06/13861_01.jpg_7fb8d22f7e94486ba241c4f03dc9b35a_1024x1024.jpeg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Giày Nike Air Jordan 3 &#8216;Black History Month&#8217; 455657-001</h2><div class="star-rating" role="img" aria-label="Được xếp hạng 5.00 5 sao"><span style="width:100%">Được xếp hạng <strong class="rating">5.00</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>13,000,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="https://galaway.github.io/mywordpress/sanpham/giay-nike-air-jordan-3-black-history-month-455657-001/?add-to-cart=205" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="205" data-product_sku="455657-001" aria-label="Thêm &ldquo;Giày Nike Air Jordan 3 &#039;Black History Month&#039; 455657-001&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+</ul>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

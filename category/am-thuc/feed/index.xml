@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ẩm thực &#8211; Khang&#039;s WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/category/am-thuc/feed/" rel="self" type="application/rss+xml" />
+	<link>https://galaway.github.io/mywordpress</link>
+	<description>Chúc bạn một ngày tốt lành</description>
+	<lastBuildDate>Fri, 02 Jul 2021 00:55:07 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Lương về sale kịch sàn</title>
+		<link>https://galaway.github.io/mywordpress/com-rang-them-nguyen-lieu-nay-se-ngon-sieu-cap-cuc-hop-cho-bua-trua-cuoi-tuan/am-thuc/</link>
+					<comments>https://galaway.github.io/mywordpress/com-rang-them-nguyen-lieu-nay-se-ngon-sieu-cap-cuc-hop-cho-bua-trua-cuoi-tuan/am-thuc/#respond</comments>
+		
+		<dc:creator><![CDATA[phamkhang]]></dc:creator>
+		<pubDate>Sun, 13 Jun 2021 11:19:01 +0000</pubDate>
+				<category><![CDATA[Ẩm thực]]></category>
+		<guid isPermaLink="false">https://galaway.github.io/mywordpress/?p=104</guid>
+
+					<description><![CDATA[Giá tại&#160;Hồ Chí Minh 22.990.000₫&#160;Trả góp 0%.]]></description>
+										<content:encoded><![CDATA[
+<p></p>
+
+
+
+<span id="more-104"></span>
+
+
+
+<figure class="wp-block-image"><img src="https://gcp-img.slatic.net/lazada/4de32bc9-f006-44a7-8ce1-10189aac5f30_VN-1188-400.png" alt=""/></figure>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image"><img src="https://cdn.tgdd.vn/Products/Images/42/213031/Slider/vi-vn-iphone-12-1.jpg" alt=""/></figure>
+
+
+
+<p>Giá tại&nbsp;<a href="javascript:;">Hồ Chí Minh</a></p>
+
+
+
+<p>22.990.000₫&nbsp;Trả góp 0%.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://galaway.github.io/mywordpress/com-rang-them-nguyen-lieu-nay-se-ngon-sieu-cap-cuc-hop-cho-bua-trua-cuoi-tuan/am-thuc/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
